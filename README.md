@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erkocali1&label=Profile%20views&color=0e75b6&style=flat" alt="erkocali1" /> </p>
 
-- 🔭 I’m currently working on [Film App](https://github.com/erkocali1/FilmApp)
+- 🔭 I’m currently working on [Film App]
 
 - 🌱 I’m currently learning **Android, Kotlin,**
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **muhammedalierkoc92@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/muhammed-ali-erkoc](linkedin.com/in/muhammed-ali-erkoc)
+- 📄 Know about my experiences [linkedin.com/in/muhammed-ali-erkoc]
 
 - ⚡ Fun fact **I am Cheerful**
 
