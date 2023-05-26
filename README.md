@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **muhammedalierkoc92@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/muhammed-ali-erkoc]
+- 📄 Know about my experiences (linkedin.com/in/muhammed-ali-erkoc)
 
 - ⚡ Fun fact **I am Cheerful**
 
