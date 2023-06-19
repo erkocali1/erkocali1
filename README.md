@@ -16,9 +16,7 @@
 
 - ⚡ Fun fact **I am Cheerful**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,8 +24,11 @@
 <a href="https://medium.com/@muhammedalierkoc92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhammedalierkoc92" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+🔸Languages and Tools I Use
+
+| Android | Kotlin | Java | Firebase | SQLite | IntelliJ | Postman | Git 
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: 
+|<img align="center" src="https://developer.android.com/images/logos/android.svg" alt="android" width="43" height="43"/>|<img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="37" height="37"/>|<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42"/>|<img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>|<img align="center" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/10/logo_zjwX5FR.png" alt="intellij" width="40" height="40"/>|<img align="center" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/11/logo-mark.png" alt="postman" width="40" height="40"/>|<img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git" width="43" height="43"/>|<img align="center" 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erkocali1&show_icons=true&locale=en&layout=compact" alt="erkocali1" /></p>
 
